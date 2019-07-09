@@ -1,10 +1,9 @@
 ![Travis (.org) branch](https://img.shields.io/travis/WingsHell/awesome-list/master.svg?label=TravisCI&logo=travis&style=plastic)
 ![CircleCI](https://img.shields.io/circleci/build/gh/WingsHell/awesome-list/master.svg?label=CircleCI&logo=CircleCI&style=plastic)
 ![npm](https://img.shields.io/npm/v/@angular/cli.svg?color=%234c1&label=npm%20package&logo=npm&style=plastic)
+![Codacy grade](https://img.shields.io/codacy/grade/c39efc40abd0469f856a4efcfc4efe95.svg?color=%234c1&label=Codacy%20Grade&logo=codacy&style=plastic)
 
 # awesome-list
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c39efc40abd0469f856a4efcfc4efe95)](https://app.codacy.com/app/WingsHell/awesome-list?utm_source=github.com&utm_medium=referral&utm_content=WingsHell/awesome-list&utm_campaign=Badge_Grade_Dashboard)
 
 tuto awesome-list / Angular 8+ / Angular Matérial / API REST
 
