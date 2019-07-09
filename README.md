@@ -55,6 +55,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 -----------------
 
 ## Conf
+
 `karma.conf.js :`
 
     browsers: ['Chrome'],
@@ -67,7 +68,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 -----------------
 
-* e2e/pratactor-ci.conf.js :
+`e2e/pratactor-ci.conf.js :`
 
     const config = require('./protractor.conf').config;
 
@@ -82,7 +83,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 -----------------
 
-* .circleci/config.yml :
+`.circleci/config.yml :`
 
     version: 2
     jobs:
@@ -104,7 +105,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 -----------------
 
-* .travis.yml :
+`.travis.yml :`
 
     dist: trusty
     sudo: false
