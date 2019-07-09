@@ -55,7 +55,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 -----------------
 
 ## Conf
-* karma.conf.js :
+`karma.conf.js :`
 
     browsers: ['Chrome'],
     customLaunchers: {
