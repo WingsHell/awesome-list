@@ -1,4 +1,4 @@
-[![TravisCI](https://travis-ci.org/WingsHell/awesome-list.svg?branch=master)](https://travis-ci.org/WingsHell/awesome-list)
+[![TravisCI](https://travis-ci.org/WingsHell/awesome-list.svg?branch=master)]
 
 
 ![Travis (.com)](https://img.shields.io/travis/com/WingsHell/awesome-list.svg?branch=master&color=silver&label=TravisCI&logo=travis&style=plastic)
