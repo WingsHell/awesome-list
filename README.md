@@ -3,6 +3,9 @@
 ![npm](https://img.shields.io/npm/v/@angular/cli.svg?color=%234c1&label=npm%20package&logo=npm&style=plastic)
 
 # awesome-list
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c39efc40abd0469f856a4efcfc4efe95)](https://app.codacy.com/app/WingsHell/awesome-list?utm_source=github.com&utm_medium=referral&utm_content=WingsHell/awesome-list&utm_campaign=Badge_Grade_Dashboard)
+
 tuto awesome-list / Angular 8+ / Angular Matérial / API REST
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
