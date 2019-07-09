@@ -1,4 +1,4 @@
-[![TravisCI](https://travis-ci.org/WingsHell/awesome-list.svg?branch=master)](https://travis-ci.org/WingsHell/awesome-list)
+![Travis (.com)](https://img.shields.io/travis/com/WingsHell/awesome-list.svg?color=silver&label=TravisCI&logo=travis&style=plastic)
 
 # awesome-list
 tuto awesome-list / Angular 8+ / Angular Matérial / API REST
