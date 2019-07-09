@@ -1,6 +1,6 @@
 ![Travis (.org) branch](https://img.shields.io/travis/WingsHell/awesome-list/master.svg?label=TravisCI&logo=travis&style=plastic)
-
-[![CircleCI](https://circleci.com/gh/WingsHell/awesome-list/tree/master.svg?style=svg)](https://circleci.com/gh/WingsHell/awesome-list/tree/master)
+![CircleCI](https://img.shields.io/circleci/build/gh/WingsHell/awesome-list/master.svg?label=CircleCI&logo=CircleCI&style=plastic)
+[![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/@angular/core)
 
 # awesome-list
 tuto awesome-list / Angular 8+ / Angular Matérial / API REST
