@@ -1,6 +1,8 @@
+[![TravisCI](https://travis-ci.org/WingsHell/awesome-list.svg?branch=master)](https://travis-ci.org/WingsHell/awesome-list)
+
 # awesome-list
 tuto awesome-list / Angular 8+ / Angular Matérial / API REST
-[![Build Status](https://travis-ci.org/WingsHell/awesome-list.svg?branch=master)](https://travis-ci.org/WingsHell/awesome-list)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
 ## Development server
