@@ -116,7 +116,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
           # Test the source code
           - run:
               name: Testing
-              command: npm run test -- --no-watch --no-progress --browsers=ChromeHeadlessCI
+              command: npm run test -- --no-watch --code-coverage --no-progress --browsers=ChromeHeadlessCI
           # Test the source code
           - run:
               name: e2e
@@ -161,7 +161,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
     script:
       - npm run lint
-      - npm run test -- --no-watch --no-progress --browsers=ChromeHeadlessCI
+      - npm run test -- --no-watch --code-coverage --no-progress --browsers=ChromeHeadlessCI
       - npm run e2e -- --protractor-config=e2e/protractor-ci.conf.js
       - npm run build -- --prod
 
