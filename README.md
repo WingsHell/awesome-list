@@ -2,7 +2,7 @@
 ![CircleCI](https://img.shields.io/circleci/build/gh/WingsHell/awesome-list/master.svg?label=CircleCI&logo=CircleCI&style=plastic)
 ![npm](https://img.shields.io/npm/v/@angular/cli.svg?color=%234c1&label=npm%20package&logo=npm&style=plastic)
 ![Codacy grade](https://img.shields.io/codacy/grade/c39efc40abd0469f856a4efcfc4efe95.svg?color=%234c1&label=Codacy%20Grade&logo=codacy&style=plastic)
-![License][license-image]
+![GitHub](https://img.shields.io/github/license/WingsHell/awesome-list.svg?style=plastic)
 
 # awesome-list
 
@@ -56,7 +56,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Conf
 * karma.conf.js :
-`
 
     browsers: ['Chrome'],
     customLaunchers: {
@@ -69,7 +68,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 -----------------
 
 * e2e/pratactor-ci.conf.js :
-`
 
     const config = require('./protractor.conf').config;
 
@@ -85,7 +83,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 -----------------
 
 * .circleci/config.yml :
-`
 
     version: 2
     jobs:
@@ -108,7 +105,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 -----------------
 
 * .travis.yml :
-`
 
     dist: trusty
     sudo: false
