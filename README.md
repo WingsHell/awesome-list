@@ -1,5 +1,6 @@
 ![Travis (.org) branch](https://img.shields.io/travis/WingsHell/awesome-list/master.svg?label=TravisCI&logo=travis&style=plastic)
 ![CircleCI](https://img.shields.io/circleci/build/gh/WingsHell/awesome-list/master.svg?label=CircleCI&logo=CircleCI&style=plastic)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c39efc40abd0469f856a4efcfc4efe95)](https://app.codacy.com/app/WingsHell/awesome-list?utm_source=github.com&utm_medium=referral&utm_content=WingsHell/awesome-list&utm_campaign=Badge_Grade_Dashboard)
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/@angular/core)
 
 # awesome-list
