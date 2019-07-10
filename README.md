@@ -15,7 +15,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [![Codacy grade](https://img.shields.io/codacy/grade/c39efc40abd0469f856a4efcfc4efe95.svg?color=%234c1&label=Codacy%20Grade&logo=codacy&style=plastic)](https://www.codacy.com/app/WingsHell/awesome-list?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=WingsHell/awesome-list&amp;utm_campaign=Badge_Grade)
 [![Coveralls github](https://img.shields.io/coveralls/github/WingsHell/awesome-list.svg?color=%234b1&label=Coveralls&style=plastic)](https://coveralls.io/github/WingsHell/awesome-list?branch=master)
-[![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/WingsHell/awesome-list.svg?color=%234b1&logo=code%20climate)](https://codeclimate.com/github/WingsHell/awesome-list/maintainability)
+[![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/WingsHell/awesome-list.svg?color=%2345D298&logo=code%20climate&style=plastic)](https://codeclimate.com/github/WingsHell/awesome-list/maintainability)
 
 [![GitHub](https://img.shields.io/github/license/WingsHell/awesome-list.svg?style=plastic)](https://www.gnu.org/licenses/gpl-3.0)
 
