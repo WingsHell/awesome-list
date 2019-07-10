@@ -21,7 +21,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Site tutorial
 
-> [Awesome-Angular](https://awesome-angular.com/2019/04/10/angular-homepage/)
+> [Awesome-Angular](https://awesome-angular.com/)
 
 ## Development server
 
