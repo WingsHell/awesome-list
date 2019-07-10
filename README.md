@@ -1,6 +1,6 @@
 # awesome-list
 
-tuto awesome-list / Angular 8+ / Angular Matérial / API REST
+tuto awesome-list / Angular 8+ / Angular Material / API REST
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
