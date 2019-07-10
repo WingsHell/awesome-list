@@ -16,11 +16,18 @@ cache:
   directories:
      - ./node_modules
 
+before_install:
+  - npm update
+
 install:
   - npm install
 
 script:
   - npm run lint
   - npm run test -- --no-watch --code-coverage --no-progress --browsers=ChromeHeadlessCI
+  - cat ./coverage/test/lcov.info | ./node_modules/coveralls/bin/coveralls.js
   - npm run e2e -- --protractor-config=e2e/protractor-ci.conf.js
   - npm run build -- --prod
+
+ #after_script:
+  #- cat ./coverage/test/lcov.info | ./node_modules/coveralls/bin/coveralls.js
