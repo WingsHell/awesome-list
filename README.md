@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/@angular/cli.svg?color=%234c1&label=npm%20package&logo=npm&style=plastic)](https://badge.fury.io/js/%40angular%2Fcli)
 ![David](https://img.shields.io/david/WingsHell/awesome-list.svg?color=%234b1&style=plastic)
 [![Codacy grade](https://img.shields.io/codacy/grade/c39efc40abd0469f856a4efcfc4efe95.svg?color=%234c1&label=Codacy%20Grade&logo=codacy&style=plastic)](https://www.codacy.com/app/WingsHell/awesome-list?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=WingsHell/awesome-list&amp;utm_campaign=Badge_Grade)
-[![Coverage Status](https://coveralls.io/repos/github/WingsHell/awesome-list/badge.svg?branch=master)](https://coveralls.io/github/WingsHell/awesome-list?branch=master)
+[![Coveralls github](https://img.shields.io/coveralls/github/WingsHell/awesome-list.svg?color=%234b1&label=Coveralls&style=plastic)](https://coveralls.io/github/WingsHell/awesome-list?branch=master)
 [![GitHub](https://img.shields.io/github/license/WingsHell/awesome-list.svg?style=plastic)](https://www.gnu.org/licenses/gpl-3.0)
 
 # awesome-list
