@@ -3,6 +3,7 @@
 ![npm](https://img.shields.io/npm/v/@angular/cli.svg?color=%234c1&label=npm%20package&logo=npm&style=plastic)
 ![David](https://img.shields.io/david/WingsHell/awesome-list.svg?color=%234b1&style=plastic)
 ![Codacy grade](https://img.shields.io/codacy/grade/c39efc40abd0469f856a4efcfc4efe95.svg?color=%234c1&label=Codacy%20Grade&logo=codacy&style=plastic)
+[![Coverage Status](https://coveralls.io/repos/github/WingsHell/awesome-list/badge.svg?branch=master)](https://coveralls.io/github/WingsHell/awesome-list?branch=master)
 ![GitHub](https://img.shields.io/github/license/WingsHell/awesome-list.svg?style=plastic)
 
 # awesome-list
@@ -47,6 +48,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 * Codacy
 > [Codacy](https://app.codacy.com/projects)
+
+-----------------
+
+* Coveralls
+> [Coveralls](https://coveralls.io/github/WingsHell/awesome-list)
 
 -----------------
 
@@ -157,6 +163,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
       directories:
         - ./node_modules
 
+    before_install:
+      - npm update
+
     install:
       - npm install
 
@@ -165,6 +174,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
       - npm run test -- --no-watch --code-coverage --no-progress --browsers=ChromeHeadlessCI
       - npm run e2e -- --protractor-config=e2e/protractor-ci.conf.js
       - npm run build -- --prod
+
+-----------------
+
+`.travis.yml : for coveralls`
+
+    ...
+    script:
+    ...
+      - npm run test -- --no-watch --code-coverage --no-progress --browsers=ChromeHeadlessCI
+      - cat ./coverage/test/lcov.info | ./node_modules/
+    ...
 
 ## Further help
 
