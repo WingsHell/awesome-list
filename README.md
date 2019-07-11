@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Badges
 
-[![Travis (.org) branch](https://img.shields.io/travis/WingsHell/awesome-list/master.svg?label=TravisCI&logo=travis&style=plastic)](https://travis-ci.org/WingsHell/coverage-test)
+[![Travis (.org) branch](https://img.shields.io/travis/WingsHell/awesome-list/master.svg?label=TravisCI&logo=travis&style=plastic)](https://travis-ci.org/WingsHell/awesome-list)
 [![CircleCI](https://img.shields.io/circleci/build/gh/WingsHell/awesome-list/master.svg?label=CircleCI&logo=CircleCI&style=plastic)](https://circleci.com/gh/WingsHell/awesome-list)
 [![npm](https://img.shields.io/npm/v/@angular/cli.svg?color=%234c1&label=npm%20package&logo=npm&style=plastic)](https://badge.fury.io/js/%40angular%2Fcli)
 ![David](https://img.shields.io/david/WingsHell/awesome-list.svg?color=%234b1&style=plastic)
