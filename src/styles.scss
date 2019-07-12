@@ -1,1 +1,75 @@
 /* You can add global styles to this file, and also import other style files */
+//@import "~@angular/material/prebuilt-themes/pink-bluegrey.css";
+@import './app/shared/scss/theme';
+
+// Include the base styles for Angular Material core. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+@include mat-core();
+
+// Include theme styles for core and each component used in your app.
+// Alternatively, you can import and @include the theme mixins for each component that you are using.
+@include angular-material-theme($app-theme);
+
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 16px;
+  color: #292a1d;
+}
+a {
+  text-decoration-color: mat-color($app-primary);
+  color: mat-color($app-primary);
+}
+
+
+//  ------------------  Material icons  ------------------
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+/* Règles pour la taille des icônes. */
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+/* Règles pour définir différentes couleurs aux icônes. */
+.material-icons.md-grey {
+ color: rgb(155, 155, 155);
+ cursor: pointer;
+}
+.material-icons.md-grey:hover {
+ color: rgb(105, 105, 105) !important;
+}
+.material-icons.md-dark-grey {
+ color: rgb(85, 85, 85);
+ cursor: pointer;
+}
+.material-icons.md-dark-grey:hover {
+ color: rgb(65, 65, 65) !important;
+}
+//  ------------------  Material icons  ------------------
