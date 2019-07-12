@@ -1,0 +1,20 @@
+.jumbotron {
+  background-image: url('../../../../assets/img/home-banner.jpg');
+  background-size: cover;
+  min-height: 380px;
+  text-align: center;
+  color: white;
+}
+
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-top: 4.5rem;
+}
+
+.home-btn {
+  margin-top: 2rem;
+}
