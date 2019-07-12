@@ -2,13 +2,25 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { ProtectedRoutingModule } from './protected-routing.module';
+import { DashboardModule } from './dashboard/dashboard.module';
+import { ParametersModule } from './parameters/parameters.module';
+import { PlanningModule } from './planning/planning.module';
+import { ProfileModule } from './profile/profile.module';
+import { ProfilModule } from './profil/profil.module';
+import { WorkdayModule } from './workday/workday.module';
 
 
 @NgModule({
   declarations: [],
   imports: [
     CommonModule,
-    ProtectedRoutingModule
+    ProtectedRoutingModule,
+    DashboardModule,
+    ParametersModule,
+    PlanningModule,
+    ProfileModule,
+    ProfilModule,
+    WorkdayModule
   ]
 })
 export class ProtectedModule { }
